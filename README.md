@@ -5,7 +5,8 @@
 - 📸 I do freelance photography on the side... see some recent snaps [@photosbyharuna](https://www.instagram.com/photosbyharuna/)
 - 🍽️ My weakness is food, cute cafes, and being too active on Beli
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tro00ozidh9s0dmf67xhhoi93&count={3})
+### Right now, I'm listening to...
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tro00ozidh9s0dmf67xhhoi93&count=3&unique=true)
 
 <!--
 **harunatomono/harunatomono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
