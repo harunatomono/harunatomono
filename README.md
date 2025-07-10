@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey, I'm Haruna!
+
+- 👩🏻‍💻 I'm currently working on lots of cool cancer research
+- 🌱 On the side, I'm *trying to* learn data viz, digital design, and a sprinkle of web dev
+- 📸 I do freelance photography on the side... see some recent snaps [@photosbyharuna](https://www.instagram.com/photosbyharuna/)
+- 🍽️ My weakness is food, cute cafes, and being too active on Beli
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tro00ozidh9s0dmf67xhhoi93&count={3})
 
 <!--
 **harunatomono/harunatomono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
