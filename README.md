@@ -2,8 +2,8 @@
 
 - 👩🏻‍💻 I'm currently working on lots of cool cancer research
 - 🌱 On the side, I'm *trying to* learn data viz, digital design, and a sprinkle of web dev
-- 📸 I do freelance photography on the side... see some recent snaps [@photosbyharuna](https://www.instagram.com/photosbyharuna/)
-- 🍽️ My weakness is food, cute cafes, and being too active on Beli
+- 📸 I do freelance photography during my free time... see some recent snaps [@photosbyharuna](https://www.instagram.com/photosbyharuna/)
+- 🍽️ My weaknesses are food, cute cafes, and being too active on Beli
 
 ### Right now, I'm listening to...
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tro00ozidh9s0dmf67xhhoi93&count=3&unique=true)
